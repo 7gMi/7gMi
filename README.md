@@ -25,7 +25,15 @@ I love all things GIS 🗺️, Remote Sensing 🛰️, and Geospatial Developmen
 
 ---
 
-🚀 Featured Projects
+🎓 Academic & Research — M.Sc. Geomatics (G2M), Université Paris 8
+
+- 🏘️ [oniscani-amalgamare-toolkit](https://github.com/7gMi/oniscani-amalgamare-toolkit) — Geo-decision toolkit assessing the viability of a **voluntary municipal merger** (Republic of Moldova). **Python** (AmalgaSim 2.6.1, compliant with HG 925/2023) + **R** (Monte Carlo, Moran's I, Bayesian test). *Core toolkit of my M1 dissertation — May 2026.*
+- 🛰️ [jakarta-pipeline](https://github.com/7gMi/jakarta-pipeline) — 7-step **Sentinel-2** pipeline for urban flood analysis in Jakarta (remote sensing, Python) · *IGN Remote Sensing course.*
+- 🗺️ [grigny-lidar-nowak](https://github.com/7gMi/grigny-lidar-nowak) — Structural characterization of Grigny's urban landscape from **IGN LiDAR HD** (transposing Nowak et al. 2022, Python).
+
+---
+
+💼 Freelance & Client Work
 
 - 🌸 [Milena Glow Up](https://www.milenaglowup.fr) — Cosmetologist showcase site (React 19 + Vite 7 + Tailwind v4 + Supabase) · Lighthouse 95/100 mobile, 100/100 desktop
 - 🚛 [Z-Depannage](https://z-depannage.fr) — Roadside assistance company website (React + Vite + Supabase)
